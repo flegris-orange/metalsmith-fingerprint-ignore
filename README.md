@@ -1,4 +1,4 @@
-# metalsmith-fingerprint
+# metalsmith-fingerprint-ignore
 
 A fork of metalsmith-fingerprint that doesn't keep the original file after fingerprinting. Based on https://github.com/callum/metalsmith-fingerprint.
 
