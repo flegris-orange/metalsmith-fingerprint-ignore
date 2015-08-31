@@ -1,0 +1,32 @@
+{
+  "name": "metalsmith-fingerprint-ignore",
+  "version": "1.1.0",
+  "description": "A fingerprint plugin for Metalsmith",
+  "keywords": [
+    "metalsmith",
+    "javascript",
+    "css",
+    "cache",
+    "fingerprint",
+    "ignore"
+  ],
+  "author": "superwolff <superwolff@superwolff.nl> (http://superwolff.nl/)",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/superwolff/metalsmith-fingerprint-ignore"
+  },
+  "license": "MIT",
+  "main": "./lib/",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec -r should --grep=''"
+  },
+  "dependencies": {
+    "multimatch": "^2.0.0"
+  },
+  "devDependencies": {
+    "assert-dir-equal": "^1.0.1",
+    "metalsmith": "^1.1.1",
+    "mocha": "^2.1.0",
+    "should": "^4.6.1"
+  }
+}
