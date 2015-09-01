@@ -1,6 +1,6 @@
 {
   "name": "metalsmith-fingerprint-ignore",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A fork of metalsmith-fingerprint that discards the original file",
   "keywords": [
     "metalsmith",
