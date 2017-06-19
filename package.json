@@ -23,7 +23,8 @@
     "test": "./node_modules/.bin/mocha --reporter spec -r should --grep='' --harmony"
   },
   "dependencies": {
-    "multimatch": "^2.0.0"
+    "multimatch": "^2.0.0",
+    "slash": "^1.0.0"
   },
   "devDependencies": {
     "assert-dir-equal": "^1.0.1",
